@@ -1,6 +1,6 @@
 # Aurélien Grenard
 
-**Applied Mathematician | Quantitative Finance · Stochastic Control · Machine Learning**
+**Applied Mathematician | Quantitative Finance | Machine Learning**
 
 I am an applied mathematician working at the intersection of **stochastic control, quantitative finance, numerical probability, and machine learning**.
 
